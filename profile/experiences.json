@@ -1,0 +1,59 @@
+{
+    "experiences": [
+        {
+            "title": "Senior iOS Developer",
+            "subtitle": "Orgonize Medial Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked On Orgonize App",
+                "Design iOS Native Application on Story Board using UIKit",
+                "Consuming REST Apis using Alamofire, AFNetworking",
+                "Business Logic developement using Swift",
+                "Worked on PubNub, Branch.io, SocketSwift",
+                "Used GIT for version controlling",
+                "Worked in Agile Metholodogy"
+            ],
+            "dateText": "4 Aug, 2022 – Present"
+        },
+        {
+            "title": "Senior iOS Developer",
+            "subtitle": "Carbonic IT Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated Braintree for Paypal Checkout as Payment Method.",
+                "Design iOS Native Application on Story Board using UIKit",
+                "Consuming REST Apis using Alamofire, AFNetworking",
+                "Business Logic developement using Swift",
+                "Used GIT for version controlling",
+                "Worked in Agile Metholodogy"
+            ],
+            "dateText": "Oct 2021 - Jul 2022"
+        },
+        {
+            "title": "Junior iOS Developer",
+            "subtitle": "Afiniti",
+            "workType": "Full-time",
+            "workDescription": [
+                "Design iOS Native Application on Story Board using UIKit",
+                "Consuming REST Apis using Alamofire, AFNetworking",
+                "Business Logic developement using Swift",
+                "Used GIT for version controlling",
+                "Worked in Agile Metholodogy"
+            ],
+            "dateText": "May 2021 - Sep 2021"
+        },
+        {
+            "title": "Junior iOS Developer",
+            "subtitle": "AT Technologies",
+            "workType": "Full-time",
+            "workDescription": [
+                "Design iOS Native Application on Story Board using UIKit",
+                "Consuming REST Apis using Alamofire, AFNetworking",
+                "Business Logic developement using Swift",
+                "Used GIT for version controlling",
+                "Worked in Agile Metholodogy"
+            ],
+            "dateText": "Apr 2020 - May 2021"
+        }
+    ]
+}

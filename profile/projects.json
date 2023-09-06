@@ -1,0 +1,53 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/DRIQ.png",
+            "title": "Dr. iQ",
+            "bodyText": "- Dr. iQ is a free app for NHS patients that provides fast, safe, and effective online GP consultations, reducing the need to book and wait for a face- to-face appointment buit in Swift.\n -  You can access Dr. iQ on any Apple mobile phone, from wherever you are.\n - Online Doctor Consultations.\n -  No need to wait in the queue. Submit an online consultation about any issue or query that you have, and a member of the practice team will assist you via the app, saving you time and reducing the need for a face-to-face appointment.\n -  You can securely view information stored on your medical record such as your repeat medication list, allergies, vaccinations and test results, at your convenience.\n -  Order your regular repeat medication and arrange collection directly from a pharmacy of your choice.",
+            "links": [
+                
+                {
+                    "text": "Live",
+                    "href": "https://apps.apple.com/pk/app/dr-iq/id1345802108"
+                }
+            ],
+            "tags" : [
+                "Swift",
+                "Xcode",
+                "UIKIT"
+            ]
+        },
+        {
+            "image" : "images/projects/globalshopaholic.png",
+            "title": "GLOBALSHOPAHOLIC",
+            "bodyText": "- Global shopaholics is a logistics company that is providing its services, across the global.\n - We connect you, our valued customer, to brands, shops and sellers, of your choice so that you can shop free of the worry of any delivery roadblocks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/arbaz-ops/Global-Shopaholic"
+                }
+            ],
+            "tags" : [
+                "Swift",
+                "Xcode",
+                "UIKIT"
+            ]
+        },
+        {
+            "image" : "images/projects/orgonize.png",
+            "title": "ORONIZE",
+            "bodyText": "- Orgonize is an event management app, which will let you buy tickets for events, enter in competitions and buy special offers that are offered by Businesses.\n - This app will let you connect with friends, chatting with friends and event organisers.\n - This app will also let you earn as a business ambassador.\n - You can get guest pass or VIP pass for the event.\n - Orgonize will let you connect your college, clubs, unions and society and can post the events happening in your colleges.\n - Students can join the college by providing the email of college in app.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/arbaz-ops/Orgonize"
+                }
+            ],
+            "tags" : [
+                "Swift",
+                "Xcode",
+                "UIKIT"
+            ]
+        }
+    ]
+}
